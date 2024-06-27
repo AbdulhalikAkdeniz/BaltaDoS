@@ -1,0 +1,56 @@
+C:\Users\HP PC\Documents\Visual Studio 2012\Projects\baltaDoS\baltaDoS\obj\Debug\baltaDoS.vbproj.GenerateResource.Cache
+C:\Users\HP PC\Desktop\ddos masaüstü\Balta Dos 2\baltaDoS\baltaDoS\bin\Debug\baltaDoS.exe.config
+C:\Users\HP PC\Desktop\ddos masaüstü\Balta Dos 2\baltaDoS\baltaDoS\obj\Debug\baltaDoS.exe
+C:\Users\HP PC\Desktop\ddos masaüstü\Balta Dos 2\baltaDoS\baltaDoS\obj\Debug\baltaDoS.xml
+C:\Users\HP PC\Desktop\ddos masaüstü\Balta Dos 2\baltaDoS\baltaDoS\obj\Debug\baltaDoS.pdb
+C:\Users\HP PC\Desktop\ddos masaüstü\Balta Dos 2\baltaDoS\baltaDoS\bin\Debug\baltaDoS.exe
+C:\Users\HP PC\Desktop\ddos masaüstü\Balta Dos 2\baltaDoS\baltaDoS\bin\Debug\baltaDoS.pdb
+C:\Users\HP PC\Desktop\ddos masaüstü\Balta Dos 2\baltaDoS\baltaDoS\bin\Debug\baltaDoS.xml
+C:\Users\HP PC\Desktop\ddos masaüstü\Balta Dos 2\baltaDoS\baltaDoS\obj\Debug\WindowsApplication1.baltaDoS.resources
+C:\Users\HP PC\Desktop\ddos masaüstü\Balta Dos 2\baltaDoS\baltaDoS\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\HP PC\Desktop\ddos masaüstü\Balta Dos 2\baltaDoS\baltaDoS\obj\Debug\baltaDoS.vbproj.GenerateResource.Cache
+C:\Users\HP PC\Documents\Visual Studio 2012\Projects\baltaDoS\baltaDoS\bin\Debug\Balta DoS v1.0.exe.config
+C:\Users\HP PC\Documents\Visual Studio 2012\Projects\baltaDoS\baltaDoS\bin\Debug\Balta DoS v1.0.exe
+C:\Users\HP PC\Documents\Visual Studio 2012\Projects\baltaDoS\baltaDoS\bin\Debug\Balta DoS v1.0.pdb
+C:\Users\HP PC\Documents\Visual Studio 2012\Projects\baltaDoS\baltaDoS\bin\Debug\Balta DoS v1.0.xml
+C:\Users\HP PC\Documents\Visual Studio 2012\Projects\baltaDoS\baltaDoS\obj\Debug\baltaDoS.baltaDoS.resources
+C:\Users\HP PC\Documents\Visual Studio 2012\Projects\baltaDoS\baltaDoS\obj\Debug\baltaDoS.Resources.resources
+C:\Users\HP PC\Documents\Visual Studio 2012\Projects\baltaDoS\baltaDoS\obj\Debug\Balta DoS v1.0.exe
+C:\Users\HP PC\Documents\Visual Studio 2012\Projects\baltaDoS\baltaDoS\obj\Debug\Balta DoS v1.0.xml
+C:\Users\HP PC\Documents\Visual Studio 2012\Projects\baltaDoS\baltaDoS\obj\Debug\Balta DoS v1.0.pdb
+D:\Yeni klasör\YEDEK\Kullanıcı\Belgeler\Visual Studio 2012\Projects\baltaDoS\baltaDoS\bin\Debug\Balta DoS v1.0.exe.config
+D:\Yeni klasör\YEDEK\Kullanıcı\Belgeler\Visual Studio 2012\Projects\baltaDoS\baltaDoS\obj\Debug\Balta DoS v1.0.exe
+D:\Yeni klasör\YEDEK\Kullanıcı\Belgeler\Visual Studio 2012\Projects\baltaDoS\baltaDoS\obj\Debug\Balta DoS v1.0.xml
+D:\Yeni klasör\YEDEK\Kullanıcı\Belgeler\Visual Studio 2012\Projects\baltaDoS\baltaDoS\obj\Debug\Balta DoS v1.0.pdb
+D:\Yeni klasör\YEDEK\Kullanıcı\Belgeler\Visual Studio 2012\Projects\baltaDoS\baltaDoS\bin\Debug\Balta DoS v1.0.exe
+D:\Yeni klasör\YEDEK\Kullanıcı\Belgeler\Visual Studio 2012\Projects\baltaDoS\baltaDoS\bin\Debug\Balta DoS v1.0.pdb
+D:\Yeni klasör\YEDEK\Kullanıcı\Belgeler\Visual Studio 2012\Projects\baltaDoS\baltaDoS\bin\Debug\Balta DoS v1.0.xml
+D:\Yeni klasör\YEDEK\Kullanıcı\Belgeler\Visual Studio 2012\Projects\baltaDoS\baltaDoS\obj\Debug\baltaDoS.baltaDoS.resources
+D:\Yeni klasör\YEDEK\Kullanıcı\Belgeler\Visual Studio 2012\Projects\baltaDoS\baltaDoS\obj\Debug\baltaDoS.Resources.resources
+D:\Yeni klasör\YEDEK\Kullanıcı\Belgeler\Visual Studio 2012\Projects\baltaDoS\baltaDoS\obj\Debug\baltaDoS.vbproj.GenerateResource.Cache
+D:\Yeni klasör\YEDEK\Kullanıcı\Belgeler\Visual Studio 2012\Projects\baltaDoS\baltaDoS\obj\Debug\baltaDoS.vbproj.AssemblyReference.cache
+D:\Yeni klasör\YEDEK\Kullanıcı\Belgeler\Visual Studio 2012\Projects\baltaDoS\baltaDoS\obj\Debug\baltaDoS.vbproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\BaltaDoS\baltaDoS\bin\Debug\Balta DoS v1.0.exe.config
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\BaltaDoS\baltaDoS\bin\Debug\Balta DoS v1.0.exe
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\BaltaDoS\baltaDoS\bin\Debug\Balta DoS v1.0.pdb
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\BaltaDoS\baltaDoS\bin\Debug\Balta DoS v1.0.xml
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\BaltaDoS\baltaDoS\obj\Debug\baltaDoS.vbproj.AssemblyReference.cache
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\BaltaDoS\baltaDoS\obj\Debug\baltaDoS.baltaDoS.resources
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\BaltaDoS\baltaDoS\obj\Debug\baltaDoS.Resources.resources
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\BaltaDoS\baltaDoS\obj\Debug\baltaDoS.vbproj.GenerateResource.cache
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\BaltaDoS\baltaDoS\obj\Debug\baltaDoS.vbproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\BaltaDoS\baltaDoS\obj\Debug\Balta DoS v1.0.exe
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\BaltaDoS\baltaDoS\obj\Debug\Balta DoS v1.0.xml
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\BaltaDoS\baltaDoS\obj\Debug\Balta DoS v1.0.pdb
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\BaltaDoS\baltaDoS\bin\Debug\Balta DoS v1.0.exe.config
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\BaltaDoS\baltaDoS\bin\Debug\Balta DoS v1.0.exe
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\BaltaDoS\baltaDoS\bin\Debug\Balta DoS v1.0.pdb
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\BaltaDoS\baltaDoS\bin\Debug\Balta DoS v1.0.xml
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\BaltaDoS\baltaDoS\obj\Debug\baltaDoS.vbproj.AssemblyReference.cache
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\BaltaDoS\baltaDoS\obj\Debug\baltaDoS.baltaDoS.resources
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\BaltaDoS\baltaDoS\obj\Debug\baltaDoS.Resources.resources
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\BaltaDoS\baltaDoS\obj\Debug\baltaDoS.vbproj.GenerateResource.cache
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\BaltaDoS\baltaDoS\obj\Debug\baltaDoS.vbproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\BaltaDoS\baltaDoS\obj\Debug\Balta DoS v1.0.exe
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\BaltaDoS\baltaDoS\obj\Debug\Balta DoS v1.0.xml
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\BaltaDoS\baltaDoS\obj\Debug\Balta DoS v1.0.pdb
